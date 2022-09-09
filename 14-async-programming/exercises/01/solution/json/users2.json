@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Gipsz Jakab",
+      "age": 76
+    },
+    {
+      "name": "Mekk Elek",
+      "age": 12
+    },
+    {
+      "name": "Lapos ELemér",
+      "age": 23
+    }
+  ]
+}
